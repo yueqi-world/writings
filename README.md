@@ -11,7 +11,7 @@
 <br>
 
 ---
-**[ 📖 作品 Works ]** ｜ **[ ✍️ 片段 Fragments ]** ｜ **[ 📮 连结 Socials ]**
+**📖 作品 Works** ｜ **✍️ 片段 Fragments** ｜ **📰 Published / 作品发表** ｜ **📮 Socials / 社交平台**
 ---
 
 </div>
@@ -22,7 +22,7 @@
 
 | 🌔 月光的游戏 (已完成) | 🌊 归来 (连载中) |
 | :--- | :--- |
-| **长篇小说**<br><br>她的设局是为了生存；<br><br>而他的沉沦，却让一切变得不可回头。<br><br>[➔ 翻开书页](#) | **长篇小说**<br><br>”从今天开始，你只是影子。是物。”<br><br> “圣女为神躯，你代表着我们的未来。”。<br><br>[➔ 追更连载](./gui_lai/README.md) |
+| **长篇小说**<br><br>她的设局是为了生存；<br><br>而他的沉沦，却让一切变得不可回头。<br><br>正文暂不公开 · 入口整理中 | **长篇小说**<br><br>”从今天开始，你只是影子。是物。”<br><br> “圣女为神躯，你代表着我们的未来。”。<br><br>[➔ 追更连载](./gui_lai/README.md) |
 
 <br>
 
@@ -50,14 +50,25 @@
 
 <br>
 
+### 📰 Published / 作品发表
+
+<p>
+  <a href="https://people.fukan.my/channel/乐琦/">📰 <b>人间烟火公众号 / fukan.my</b> · 已发表作品与文学平台记录</a>
+</p>
+
+<br>
+
+### 📮 Socials / 社交平台
+
+<br>
+
 ---
 
 <div align="center">
 
 <p>
   <a href="https://www.instagram.com/velastra.world/">📷 <b>Instagram</b> · 世界观构建</a> ｜ 
-  <a href="#">📕 <b>小红书</b> · 作者随笔</a> ｜ 
-  <a href="../README.md">🏠 <b>返回主页</b></a>
+  📕 <b>小红书</b> · 入口准备中
 </p>
 
 <br>
